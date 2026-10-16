@@ -1,34 +1,51 @@
-# Awesome-Cybersecurity-Training-Reverse-Engineering
+<div align="center">
 
-## Top Cybersecurity Training & Reverse Engineering Ecosystem
+<img src="./assets/banner.svg" alt="Cybersecurity Training &amp; Reverse Engineering Ecosystem Banner" width="100%" />
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Hands-On Labs, Reverse Engineering Toolchains & Cyber Range Exercises*  
-**Last updated: October 2026**
+# 🛡️ Awesome Cybersecurity Training & Reverse Engineering ⚡
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Cybersecurity Training & Reverse Engineering**. These tools enable security analysts, penetration testers, and SOC teams to develop practical skills through hands-on labs, live-fire exercises, and reverse engineering toolchains—from individual practice environments to enterprise-grade cyber ranges.
+### 🌐 Curated List of SaaS Cyber Ranges, Interactive Hands-On Labs, Decompilers, and Binary Analysis Toolchains
 
-**Examples** include Mandiant Advantage, OffSec Proving Grounds, Hack The Box Enterprise, TryHackMe Business, Cybrary for Business, Immersive Labs, SANS OnDemand, RangeForce, SimSpace, and Pentester Academy (the category leaders).
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering?style=flat-square&color=red" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Open-source emphasis**: This section is heavily expanded with major active projects for self-hosting, reverse engineering toolchains, and open training platforms—ideal for security practitioners, educators, and organizations seeking transparent, vendor-independent cybersecurity training.
+<p align="center">
+  <strong>Master offensive security, defensive SOC operations, malware triage, and firmware reverse engineering with industry-standard cyber ranges and open-source frameworks.</strong>
+</p>
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+</div>
 
-## Table of Contents
+---
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📌 Table of Contents
 
-## Sector Overview & Market Dynamics
+- [🔍 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Cyber Range Platforms](#-saas--hosted-cyber-range-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🧰 Additional Ecosystem Resources](#-additional-ecosystem-resources)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer & Ethical Usage](#️-disclaimer--ethical-usage)
 
-The dedicated global cybersecurity training and cyber range market is estimated at **$7.0B–$7.7B** (growing at an estimated 16.8%–18.6% CAGR, within a macro security services sector surpassing $300B). The sector is **moderately fragmented**: high enterprise concentration exists at the top among certification/defense conglomerates (SANS, Google/Mandiant, Cyberbit), while intense fragmentation continues across mid-market and niche spaces with specialized interactive lab platforms (Hack The Box, TryHackMe, SimSpace, Immersive Labs) competing for workforce reskilling and live-fire cyber drill demand.
+---
 
-## SaaS/Hosted Platforms
+## 🔍 Sector Overview & Market Dynamics
 
-| Platform | Company Size (Valuation / Revenue) | Starting Pricing | Free Tier / Trial Limits | Description & Core Focus |
+The dedicated global cybersecurity training, workforce upskilling, and cyber range market is estimated at **$7.0B–$7.7B** (expanding at **16.8%–18.6% CAGR**, nested inside a macro cybersecurity services ecosystem exceeding $300B). The sector exhibits **moderate fragmentation**: high market concentration anchors the top tier with institutional certification leaders and defense conglomerates (**SANS Institute**, **Mandiant / Google Cloud**, and **Cyberbit**), while vibrant fragmentation persists across mid-market and emerging ed-tech innovators (**Hack The Box**, **TryHackMe**, **SimSpace**, and **Immersive Labs**)—each delivering gamified hands-on labs, AI-driven scenario generators, and digital-twin attack simulations to solve the worldwide cybersecurity talent shortage.
+
+---
+
+## 🏢 SaaS & Hosted Cyber Range Platforms
+
+| Platform | 📊 Company Size (Valuation / Revenue) | 🏷️ Starting Pricing | 🎁 Free Tier / Trial Limits | 📝 Description & Core Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Mandiant Advantage](https://www.mandiant.com/advantage)** | **$5.4B** (Acquired by Google; ~$483M LTM revenue) | Custom enterprise starting ~$200,000/yr (or ~$650/hr for discrete assessment units) | Free Community Threat Intelligence tier (limited threat actor profiles, IOCs, and CVE views) plus 14-day higher-tier feature evaluation | Comprehensive threat intelligence, attack surface management, and Mandiant Academy / ThreatSpace cyber range simulations. |
 | **[SANS OnDemand](https://www.sans.org/)** | **~$360M** est. annual revenue (Privately held, employee-owned) | Starting **$5,000–$7,000** per self-paced course (includes 4 months / 120 days access) | No free full-course tier; provides 55+ free course preview modules/excerpts (SEC275, SEC301, SEC401, FOR500) | The premier gold-standard cybersecurity certification and training catalog, with GIAC exam pathways and NetWars cyber challenges. |
@@ -41,9 +58,11 @@ The dedicated global cybersecurity training and cyber range market is estimated 
 | **[TryHackMe Business](https://tryhackme.com/)** | **~$10M+** ARR (Self-sustained/bootstrapped) | Individual Premium starts at **$14/mo** ($126/yr); EDU licenses at **$30/seat/mo**; Business custom quotes (min. 5 seats) | Permanent free account with access to hundreds of free introductory rooms and 1 hour/day in-browser AttackBox access | Gamified cybersecurity training with guided paths, custom CTF builders, cloud labs, and team progress analytics. |
 | **[Pentester Academy](https://www.pentesteracademy.com/)** | **Sub-$20M** (Acquired by INE in 2021) | Annual subscription starting at **$249/yr**; Bootcamp cohorts from **$299–$499** | Free community taster labs (90+ browser-based terminal labs via AttackDefense / INE Skill Dive) | On-demand bootcamps and 2,000+ browser-based labs covering OWASP Top 10, Active Directory attacks, and x86/x64 assembly. |
 
-## Open-Source GitHub Projects
+---
 
-| Project | Stars | Focus Area | Description |
+## 💻 Open-Source GitHub Projects
+
+| Project | ⭐ Stars | 🎯 Focus Area | 📖 Description |
 | :--- | :--- | :--- | :--- |
 | **[x64dbg](https://github.com/x64dbg/x64dbg)** | [![GitHub stars](https://img.shields.io/github/stars/x64dbg/x64dbg?style=social&color=white)](https://github.com/x64dbg/x64dbg/stargazers) | Dynamic Analysis & Debugging | An open-source x64/x32 debugger for Windows. Features an intuitive Qt GUI, TitanEngine abstraction, scriptable automation, and an extensive plugin ecosystem. |
 | **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** | [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=social&color=white)](https://github.com/NationalSecurityAgency/ghidra/stargazers) | Static Analysis & Decompilation | NSA's software reverse engineering framework (Apache-2.0). The industry-standard open-source RE suite including disassembler, decompiler, graphing, and Java/Python scripting. |
@@ -68,30 +87,51 @@ The dedicated global cybersecurity training and cyber range market is estimated 
 | **[SentinelForge CTF](https://github.com/chadeckles/sentinelforgectf)** | [![GitHub stars](https://img.shields.io/github/stars/chadeckles/sentinelforgectf?style=social&color=white)](https://github.com/chadeckles/sentinelforgectf/stargazers) | Cloud & DevSecOps CTF | Self-hosted CTF platform focused on cloud security (Azure misconfigurations), container escapes, IaC flaws, and DevSecOps challenges with 5-minute Docker Compose setup. |
 | **[PyX64Dbg](https://github.com/yoav-shamay/pyx64dbg)** | [![GitHub stars](https://img.shields.io/github/stars/yoav-shamay/pyx64dbg?style=social&color=white)](https://github.com/yoav-shamay/pyx64dbg/stargazers) | Pythonic Debugger for Linux | Python-based debugger for x86-64 Linux binaries using `ptrace` and `/proc`. Features a clean Python automation API, PySide6 GUI, and IPython CLI. |
 
-### Additional Notable Platforms & Ecosystem Resources
+### 🧰 Additional Ecosystem Resources
 
 - **[Übungszentrum Netzverteidigung 2.0 (BSI)](https://opencode.de)** — German Federal Office for Information Security (BSI) open-source cybersecurity training system and CAVE IaC range engine published on **OpenCode**.
 - **[VulnHub](https://www.vulnhub.com/)** — Premier catalog of community-created vulnerable machines and images for hands-on offensive/defensive practice.
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
+Contributions are warmly welcome! Help make this the most comprehensive, accurate, and community-driven directory:
 
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Cybersecurity training and reverse engineering tools must be used **lawfully and ethically**. **Reverse engineering proprietary software may violate license agreements**; always verify authorization before analyzing third-party binaries.
-- **Open-source reverse engineering is mature and production-grade.** Tools like Ghidra, x64dbg, Rizin/Cutter, and radare2 provide industry-grade disassembly, decompilation, and debugging capabilities.
-- **Government-backed and open-source training infrastructure is widely accessible.** Platforms like BSI's Übungszentrum Netzverteidigung 2.0 and CTFd enable transparent, self-hosted cyber defense drills for teams of any size.
-- **The training platform landscape serves diverse skill levels and budgets.** From community-accessible labs like TryHackMe and Hack The Box to high-fidelity live-fire simulation cyber ranges like SimSpace and RangeForce/Cyberbit.
-- Training environments containing vulnerable machines or malware samples must be strictly network-isolated and sandboxed.
+1. 🍴 **Fork the repo**.
+2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-tool`).
+3. 📝 **Add/edit entries in `README.md`** (follow the table layout, including pricing, free tier limits, and stargazer links).
+4. 🚀 **Submit a Pull Request** with a brief summary of additions or corrections.
 
 ---
 
-**Made for security analysts, penetration testers, and organizations building transparent cybersecurity training solutions.**  
-Let's make Cybersecurity Training & Reverse Engineering more open, data-driven, and hands-on.
+## 💖 Support & Community
+
+Thank you so much for exploring and supporting this curated cybersecurity resource! If this repository has helped your training, research, or reverse engineering workflows, please consider:
+
+- ⭐ **Starring this repository** to help others discover it on GitHub.
+- 🍴 **Forking and sharing** it with your security team, colleagues, or study groups.
+- ☕ **Supporting ongoing maintenance and research**: You can sponsor or buy a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your backing ensures these listings remain updated with the latest tools, pricing models, and security landscape shifts!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cybersecurity-Training-Reverse-Engineering&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer & Ethical Usage
+
+- This is a **community-curated** list — not exhaustive and not an official corporate endorsement.
+- Cybersecurity training and reverse engineering tools must be used **lawfully, authorizedly, and ethically**. Always verify permissions before testing third-party software, infrastructures, or binaries.
+- **Open-source reverse engineering is production-grade:** Tools like Ghidra, x64dbg, Rizin/Cutter, and radare2 provide industry-grade disassembly, decompilation, and debugging capabilities.
+- **Training environments containing live exploits, malware samples, or vulnerable hosts must be strictly network-isolated and air-gapped from production environments.**
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ for security analysts, penetration testers, reverse engineers, and blue teams worldwide.</sub>
+</div>
